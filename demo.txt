@@ -1,0 +1,6 @@
+Hello World
+:wq
+:wq
+git config --get core.editor
+exit
+
